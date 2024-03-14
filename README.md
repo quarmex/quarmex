@@ -1,11 +1,13 @@
 ## About
 
 - 🚀 Simple professional developer.
-- 🌎 Website: [https://quarmex.wexcube.online/](https://quarmex.wexcube.online/)
-- 🗨️ Discord: [https://discord.gg/nDt7AjGJQH/](https://discord.gg/nDt7AjGJQH/)
+- 🌎 Website: [https://quarmex.justcubes.ru/](https://quarmex.justcubes.ru/)
+- 🗨️ Discord: [https://dsc.gg/justcube/](https://dsc.gg/justcube/)
 
 ## Projects
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=quarmex&repo=quarmex&theme=nord)](https://github.com/quarmex/quarmex)
+
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=quarmex&repo=quarmex.github.io&theme=nord)](https://github.com/quarmex/quarmex.github.io)
 
 ## Statistics
 
